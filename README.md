@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Luis :)
 ----------------------------------------------------------------------------------------------------------------------------
-I'm Luis
-I amm a  Junior Web Developer, excited to get his career started in the industry.
+
+I am a  Junior Web Developer, excited to get his career started in the industry.
 I have experience working in projects using HTML and CSS to create high-quality responsive and accessible apps. 
 I have also worked on projects using JavaScript and currently I am learning to use the Vue framework
 Good knowledge of Git, Github, Node and SEO practices.
